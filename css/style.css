@@ -756,6 +756,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+#call-to-action iframe {
+    aspect-ratio: 16 / 9;
+    width: 100% !important;
+}
+
 #call-to-action .cta-btn {
   font-family: "Montserrat", sans-serif;
   text-transform: uppercase;
